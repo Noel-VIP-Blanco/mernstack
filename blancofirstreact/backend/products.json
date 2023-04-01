@@ -1,0 +1,41 @@
+[
+	{
+		"name": "iphone1",
+		"price": 154,
+		"feature": true,
+		"company": "apple"
+	},
+
+	{
+		"name": "iphone24",
+		"price": 100,
+		"feature": true,
+		"company": "apple"
+	},
+
+	{
+		"name": "iphon33",
+		"price": 500,
+		"feature": true,
+		"company": "apple"
+	},
+
+	{
+		"name": "iphone2",
+		"price": 200,
+		"company": "apple"
+	},
+
+	{
+		"name": "iphone3",
+		"price": 130,
+		"feature": true,
+		"company": "apple"
+	},
+
+	{
+		"name": "iphone21",
+		"price": 154,
+		"company": "apple"
+	}
+]
