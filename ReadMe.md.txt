@@ -1,5 +1,6 @@
 M E R N Stack
 >>>INSTALL 
+install i react-bootstrap bootstrap react-router-dom
 install i express
 install i -g nodemon
 install i mongoose
